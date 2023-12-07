@@ -12,6 +12,8 @@ body {
   
   main {
     margin: 20px;
+    display: flex;
+    flex-direction: row;
   }
   
   section {
