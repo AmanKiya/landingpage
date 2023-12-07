@@ -1,2 +1,2 @@
 # landingpage
-## by aman
+## by amanuel mekonnen for ALX
