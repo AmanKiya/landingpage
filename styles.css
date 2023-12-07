@@ -1,28 +1,36 @@
 body {
     font-family: Arial, sans-serif;
- }
- 
- header {
     background-color: #f8f9fa;
+  }
+  
+  header {
+    background-color: #6c757d;
+    color: white;
     padding: 20px;
     text-align: center;
- }
- 
- main {
+  }
+  
+  main {
     margin: 20px;
- }
- 
- section {
+  }
+  
+  section {
     background-color: #e9ecef;
     padding: 20px;
     margin-bottom: 20px;
- }
- 
- h1, h2 {
+    text-align: center;
+  }
+  
+  h1, h2 {
     color: #6c757d;
- }
- 
- p {
+  }
+  
+  p {
     color: #495057;
- }
- 
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
